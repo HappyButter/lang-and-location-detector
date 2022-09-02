@@ -3,6 +3,7 @@
 ### Setup
 
 > NOTE: Create a Python 3.8 (or higher) virtual environment 
+
 > NOTE: Ensure that you have opencv-python and NOT opencv-contrib-python installed in your virtual environment
 
 1.  pip install opencv-python
