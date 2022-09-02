@@ -18,7 +18,7 @@
 10. pip install pytesseract 
 11. In the line 11 of detect_langs.py set: pytesseract.pytesseract.tesseract_cmd = r"C:\Users\YOUR_FANCY_WINDOWS_USER_NAME\AppData\Local\Tesseract-OCR\tesseract" 
 
-### Run
+### Run example
 
 1. python detect_langs.py
 
